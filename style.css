@@ -1,0 +1,91 @@
+h1
+{
+font-size:40px;
+font-family: Tahoma;
+font-weight: bold;
+color: green;
+letter-spacing:5px;
+text-align: center;
+}
+
+
+
+h2
+{
+font-size:30px;
+font-family: Arial;
+font-weight: normal;
+color: green;
+letter-spacing:20px;
+text-align: center;
+}
+h3
+{
+font-size:12px;
+font-family: Tahoma;
+font-weight: normal;
+color: red;
+letter-spacing:2px;
+text-align: center;
+}
+
+
+body
+{
+margin-left: 100px;
+margin-right: 100px;
+background-color: lightgreen;
+color: red;
+}
+
+
+
+
+
+
+
+
+img
+{
+height: 150px;
+border-style: solid;
+border-color: violet;
+border-width: 3px;
+}
+
+
+table
+{
+width:100%;
+border: violet;
+background:green;
+border-width: 8px;
+border-style:double solid;
+color:blue;
+}
+td
+{color:blue;
+text-align:center}
+
+
+
+
+a:link
+{color: red;
+}
+a:visited
+{color: yellow;
+}
+a:hover
+{color: blue;
+}
+p
+{
+color: blue;
+}
+hr { 
+   height: 30px; 
+  border-style: solid; 
+  border-color: blue; 
+  border-width: 1px 1px 1px 1px; 
+  border-radius: 20px; 
